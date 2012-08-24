@@ -1,0 +1,16 @@
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Optimization.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.Providers.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+D:\KuduTesting\GitDeploymentHooks\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
